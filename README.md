@@ -1,1 +1,11 @@
-# FearlessFearless
+# Привет, я FearlessFearless! 👋
+
+### 🛠 Я сейчас работаю над:
+- 🔭 Разработкой крутых проектов на GitHub
+- 🌱 Изучением новых технологий
+
+### 📊 Моя статистика GitHub:
+![Статистика FearlessFearless](https://vercel.app)
+
+### 🚀 Языки, которые я использую:
+![Топ языков](https://vercel.app)
